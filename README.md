@@ -7,6 +7,14 @@ Now i want to add some temperatur sensors with ESP8266 and DHT22 from WeMos in t
 
 So for starters i am starting this config drop / howto space on github, so maybe someone finds it usefull or wants to add some improvemnets (MR/PR are verrrrry welcome)
 
+This is how it looks like as of now (Jan 2017):
+
+Ubiquiti Edgerouter X-SFP Data collected via Telegraf via SNMP)
+![alt tag](https://github.com/northalpha/smart-home-monitoring/blob/master/img/EdgeRouterDashboard.png)
+
+Home Server Data collected via telegraf directly
+![alt tag](https://github.com/northalpha/smart-home-monitoring/blob/master/img/TelegrafDashboard.png)
+
 Please see the Wiki here for more step by step HowTos, which is basically meant to be a runbook for me if i have to set it up again :)
 
 Idea and based on (mainly:) https://lkhill.com/using-influxdb-grafana-to-display-network-statistics/ and https://www.dev-eth0.de/blog/2016/12/06/grafana_snmp.html
