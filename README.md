@@ -8,3 +8,5 @@ Now i want to add some temperatur sensors with ESP8266 and DHT22 from WeMos in t
 So for starters i am starting this config drop / howto space on github, so maybe someone finds it usefull or wants to add some improvemnets (MR/PR are verrrrry welcome)
 
 Please see the Wiki here for more step by step HowTos, which is basically meant to be a runbook for me if i have to set it up again :)
+
+Idea and based on (mainly:) https://lkhill.com/using-influxdb-grafana-to-display-network-statistics/ and https://www.dev-eth0.de/blog/2016/12/06/grafana_snmp.html
